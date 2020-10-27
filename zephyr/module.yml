@@ -1,0 +1,3 @@
+build:
+  cmake-extern: True
+  kconfig-extern: True
